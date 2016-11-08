@@ -3,7 +3,8 @@
 }
 
 h1 {
-    display: inline;
+    margin-top:0;
+    text-align: center;
     position:center;
     font-size: 4.8vw;
     color: rgba(147, 22, 22, 0.86);
@@ -11,20 +12,29 @@ h1 {
     text-shadow: 0 1px 1px black;
     background: rgba(128, 128, 128, 0.47);
     border: 0.05em solid black;
+    
 }
 
 #menu{
-    margin-top: 5.6vw;
-    width: 150px;
+    margin-top: 5.95vw;
+    width: 9vw;
     position: fixed;
     top: 0;
     bottom: 0;
     z-index: 1000;
     overflow: auto;
     background: rgba(128, 128, 128, 0.47);
+    font-size: 1vw;
 }
 
 .pure-menu-heading {
         background: rgba(147,22,22,1);
         color: #ffffff;
     }
+.pure-u-1-3{
+    text-align: center;
+}
+
+.openingszin{
+    text-align:center;
+}
