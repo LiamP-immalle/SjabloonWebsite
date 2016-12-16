@@ -47,9 +47,10 @@
     position: relative;
     top: -90px;
     left: 40%;
+    
 }
 
-.flex-container {
+.flex-container1 {
     display: -webkit-flex;
     display: flex;
     position: relative;
@@ -72,6 +73,7 @@ h2{
     margin: 2px;
     text-align: center;
     font-size: 1500%;
+    color: #ffa03a;
 }
 
 .flex-item2 {
@@ -81,6 +83,7 @@ h2{
     margin: 2px;
     text-align: center;
     font-size: 1500%;
+    color: #ffa03a;
 }
 
 .flex-item3 {
@@ -90,6 +93,7 @@ h2{
     margin: 2px;
     text-align: center;
     font-size: 1500%;
+    color: #ffa03a;
 }
 
 .welkomstwoord{
@@ -98,3 +102,77 @@ h2{
     top: -80px;
 }
 
+.flex-container2 {
+    display: -webkit-flex;
+    display: flex;
+    position: relative;
+
+}
+
+.flex-stage1{
+    background-image: url(vraagteken.jpg);
+    width: 25%;
+    height: 300px;
+    margin: 2px;
+    text-align: center;
+    font-size: 1500%;
+    color: #ffa03a;
+}
+
+
+.flex-container3 {
+    display: -webkit-flex;
+    display: flex;
+    position: relative;
+
+}
+
+.flex-work{
+    background-image: url(workinprogress.png);
+    width: 25%;
+    height: 300px;
+    margin: 2px;
+    text-align: center;
+    font-size: 1500%;
+    color: #ffa03a;
+}
+
+#work{
+    text-align: center;
+    font-size: 500%;
+}
+
+.link{
+    color: #ffa03a;
+}
+
+#it{
+    text-align:center;
+    position: relative;
+    top: -80px;
+}
+
+#itt{
+    text-align: center;
+    position: relative;
+    top: -80px;
+}
+
+footer{
+    text-align: center;
+    position: relative;
+    top: -60px;
+}
+
+progress {
+  background-color: #f3f3f3;
+  border: 0;
+  height: 18px;
+  border-radius: 9px;
+  width: 400px;
+}
+
+.hoger{
+    position: relative;
+    top:-80px;
+}
