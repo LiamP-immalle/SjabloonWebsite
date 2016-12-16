@@ -53,3 +53,24 @@
     text-shadow: 0 1px 1px black; 
     margin-top:-1px;
 }
+
+.photo-box, .text-box {
+    overflow: hidden;
+    position: static;
+    height: 500px;
+    text-align: center;
+    width: 33.33%;
+    display: inline-block;
+   
+}
+.photo-box-thin {
+    height: 120px;
+}
+
+
+.photo-box img {
+        max-width: 100%;
+        height: auto;
+        min-height: 250px;
+        top: 100px;
+}
