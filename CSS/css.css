@@ -275,6 +275,7 @@ progress {
     background-image: url(GNS32.JPG);
     border-style: solid;
     width: 33.33%;
+    max-width: 33.33%;
     height: 100%;
 }
 
@@ -282,12 +283,14 @@ progress {
     background-image: url(GNS33.JPG);
     border-style: solid;
     width: 33.33%;
+    max-width:33.33%;
     height: 100%;
 }
 .flex-item30{
     background-image: url(GNS34.JPG);
     border-style: solid;
     width: 33.33%;
+    max-width: 33.33%;
     height: 100%;
 
 }
